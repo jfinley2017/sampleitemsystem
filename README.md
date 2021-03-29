@@ -1,6 +1,6 @@
 # sampleitemsystem
 
-The foundation for an item system used by Predecessor (images taken from their pre-alpha gameplay in october 2020)
+The foundation for an item system used by Predecessor (images taken from their pre-alpha gameplay in october 2020). This project is not intended to be compiled. Serves as a reference.
 
 This system supports the attribute system provided by the GameplayAbilitySystem, as well as plug ins for granting abilities (though that is not enabled here).
 
